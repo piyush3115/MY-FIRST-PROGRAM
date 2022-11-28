@@ -1,0 +1,2 @@
+pint("Hello world")
+print("WELCOME")
